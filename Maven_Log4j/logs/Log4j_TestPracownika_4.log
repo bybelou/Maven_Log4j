@@ -1,19 +1,25 @@
-2015-04-10 23:16:57 INFO  Maven_Log4j:11 - przykladowe-info
-2015-04-10 23:16:57 WARN  Maven_Log4j:12 - przykladowe-warn
-2015-04-10 23:16:57 ERROR Maven_Log4j:13 - przykladowe-error
-2015-04-10 23:16:57 INFO  Pracownik:46 - NOWA OSOBA - Nazwa: Piotr Kulma Pensja: 6500.0, data zatrudnienia: Wed Dec 31 00:00:00 CET 2
-2015-04-10 23:16:57 INFO  Pracownik:46 - NOWA OSOBA - Nazwa: Kamil Kuæ Pensja: 8500.0, data zatrudnienia: Wed Dec 31 00:00:00 CET 2
-2015-04-10 23:16:57 INFO  Pracownik:46 - NOWA OSOBA - Nazwa: Agnieszka Tomczuk Pensja: 12500.0, data zatrudnienia: Wed Dec 31 00:00:00 CET 2
-2015-04-10 23:16:57 INFO  Pracownik:53 - PODNIES PENSJE - Nowa pensja: 6825.0 dla: Piotr Kulma
-2015-04-10 23:16:57 INFO  Pracownik:53 - PODNIES PENSJE - Nowa pensja: 8925.0 dla: Kamil Kuæ
-2015-04-10 23:16:57 INFO  Pracownik:53 - PODNIES PENSJE - Nowa pensja: 13125.0 dla: Agnieszka Tomczuk
-2015-04-10 23:16:57 INFO  Pracownik:70 - POBIERZ NAZWE OSOBY - Osoba: Piotr Kulma
-2015-04-10 23:16:57 INFO  Pracownik:58 - POBIERZ DZIEN ZATRUDNIENIA - Data zatrudnienia: Wed Dec 31 00:00:00 CET 2
-2015-04-10 23:16:57 INFO  Pracownik:63 - POBIERZ PENSJE - Pensja: 6825.0
-2015-04-10 23:16:57 INFO  Pracownik:70 - POBIERZ NAZWE OSOBY - Osoba: Kamil Kuæ
-2015-04-10 23:16:57 INFO  Pracownik:58 - POBIERZ DZIEN ZATRUDNIENIA - Data zatrudnienia: Wed Dec 31 00:00:00 CET 2
-2015-04-10 23:16:57 INFO  Pracownik:63 - POBIERZ PENSJE - Pensja: 8925.0
-2015-04-10 23:16:57 INFO  Pracownik:70 - POBIERZ NAZWE OSOBY - Osoba: Agnieszka Tomczuk
-2015-04-10 23:16:57 INFO  Pracownik:58 - POBIERZ DZIEN ZATRUDNIENIA - Data zatrudnienia: Wed Dec 31 00:00:00 CET 2
-2015-04-10 23:16:57 INFO  Pracownik:63 - POBIERZ PENSJE - Pensja: 13125.0
-2015-04-10 23:16:57 WARN  Pracownik:65 - OSTRZERZNIE, osoba zarabia za duzo
+2015-04-11 22:54:34 INFO  Maven_Log4j:11 - przykladowe-info
+2015-04-11 22:54:34 WARN  Maven_Log4j:12 - przykladowe-warn
+2015-04-11 22:54:34 ERROR Maven_Log4j:13 - przykladowe-error
+2015-04-11 22:54:34 INFO  Pracownik:62 - NOWA OSOBA - Id: 1Nazwa: Piotr Kulma Pensja: 6500.0, data zatrudnienia: Fri May 01 00:00:00 CEST 2015
+2015-04-11 22:54:34 INFO  Pracownik:62 - NOWA OSOBA - Id: 2Nazwa: Kamil Kuæ Pensja: 8500.0, data zatrudnienia: Mon Apr 15 00:00:00 CEST 2013
+2015-04-11 22:54:34 INFO  Pracownik:62 - NOWA OSOBA - Id: 3Nazwa: Agnieszka Tomczuk Pensja: 12500.0, data zatrudnienia: Sun Jan 19 00:00:00 CET 2014
+2015-04-11 22:54:34 INFO  Pracownik:70 - PODNIES PENSJE - Nowa pensja: 6825.0 dla: Piotr Kulma
+2015-04-11 22:54:34 INFO  Pracownik:70 - PODNIES PENSJE - Nowa pensja: 8925.0 dla: Kamil Kuæ
+2015-04-11 22:54:34 INFO  Pracownik:70 - PODNIES PENSJE - Nowa pensja: 13125.0 dla: Agnieszka Tomczuk
+2015-04-11 22:54:34 INFO  Pracownik:95 - POBIERZ NAZWE OSOBY - Osoba: Piotr Kulma
+2015-04-11 22:54:34 INFO  Pracownik:75 - POBIERZ DZIEN ZATRUDNIENIA - Data zatrudnienia: Fri May 01 00:00:00 CEST 2015
+2015-04-11 22:54:34 INFO  Pracownik:88 - POBIERZ PENSJE - Pensja: 6825.0
+2015-04-11 22:54:34 INFO  Pracownik:95 - POBIERZ NAZWE OSOBY - Osoba: Kamil Kuæ
+2015-04-11 22:54:34 INFO  Pracownik:75 - POBIERZ DZIEN ZATRUDNIENIA - Data zatrudnienia: Mon Apr 15 00:00:00 CEST 2013
+2015-04-11 22:54:34 INFO  Pracownik:88 - POBIERZ PENSJE - Pensja: 8925.0
+2015-04-11 22:54:34 INFO  Pracownik:95 - POBIERZ NAZWE OSOBY - Osoba: Agnieszka Tomczuk
+2015-04-11 22:54:34 INFO  Pracownik:75 - POBIERZ DZIEN ZATRUDNIENIA - Data zatrudnienia: Sun Jan 19 00:00:00 CET 2014
+2015-04-11 22:54:34 INFO  Pracownik:88 - POBIERZ PENSJE - Pensja: 13125.0
+2015-04-11 22:54:34 WARN  Pracownik:90 - OSTRZERZNIE, osoba zarabia za duzo
+2015-04-11 22:54:34 INFO  Pracownik:83 - POBIERZ DZIEN ZATRUDNIENIA in Date - Data zatrudnienia: Fri May 01 00:00:00 CEST 2015
+2015-04-11 22:54:34 INFO  Pracownik:83 - POBIERZ DZIEN ZATRUDNIENIA in Date - Data zatrudnienia: Mon Apr 15 00:00:00 CEST 2013
+2015-04-11 22:54:34 INFO  Pracownik:83 - POBIERZ DZIEN ZATRUDNIENIA in Date - Data zatrudnienia: Sun Jan 19 00:00:00 CET 2014
+2015-04-11 22:54:34 INFO  Pracownik:79 - POBIERZ DZIEN ZATRUDNIENIA in GregorianCalendar - Data zatrudnienia: Fri May 01 00:00:00 CEST 2015
+2015-04-11 22:54:34 INFO  Pracownik:79 - POBIERZ DZIEN ZATRUDNIENIA in GregorianCalendar - Data zatrudnienia: Mon Apr 15 00:00:00 CEST 2013
+2015-04-11 22:54:34 INFO  Pracownik:79 - POBIERZ DZIEN ZATRUDNIENIA in GregorianCalendar - Data zatrudnienia: Sun Jan 19 00:00:00 CET 2014
